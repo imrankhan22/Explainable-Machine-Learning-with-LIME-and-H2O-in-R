@@ -1,5 +1,4 @@
 # Explainable-Machine-Learning-with-LIME-and-H2O-in-R
-The hands on project on Explainable Machine Learning with LIME and H2O in R is divided into following tasks:  
 In this Project, I have learn three objectives,
 1.	Use the LIME and H2O for automatic and interpretable machine learning
 2.	Build Classification Models with AutoML
